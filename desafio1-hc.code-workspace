@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "desafio1-hc",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desafio1-hc"
+	}
+}
